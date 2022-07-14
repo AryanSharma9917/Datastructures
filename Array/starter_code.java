@@ -1,10 +1,11 @@
 import java.util.*;
 
-public class Solution {
+public class starter_code
+{
 
   private static long findMaxNumOfBalancedSubstrings(int l, int r) {
     long maxNumOfSubstrings = 0;
-    // TODO: Add logic to find the maximum possible number of balanced non-empty substrings
+   
     return maxNumOfSubstrings;
   }
 
